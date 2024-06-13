@@ -7,8 +7,8 @@
 • Environment setup (Node.js, npm, Eslint, Makefile)
 
 **Contacts:**
-Tekegram: https://tlgg.ru/nekozawrik @nekozawrik
-uamishieva@gmail.com
+**Tekegram:** @nekozawrik, **Email:** uamishieva@gmail.com
+
 
 <!--
 **kotyasher/kotyasher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
