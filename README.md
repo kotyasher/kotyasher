@@ -1,5 +1,5 @@
 ###Junior Frontend-developer 
-**kills:**
+**Skills:**
 • JavaScript
 • Basic skills in HTML and CSS
 • Jest (automated testing)
