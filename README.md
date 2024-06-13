@@ -1,4 +1,14 @@
-### Hi there 👋
+###Junior Frontend-developer 
+**kills:**
+• JavaScript
+• Basic skills in HTML and CSS
+• Jest (automated testing)
+• Basic skills in Git, GitHub, GitHub Actions, Code Climate
+• Environment setup (Node.js, npm, Eslint, Makefile)
+
+**Contacts:**
+Tekegram: https://tlgg.ru/nekozawrik @nekozawrik
+uamishieva@gmail.com
 
 <!--
 **kotyasher/kotyasher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
