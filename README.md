@@ -1,4 +1,4 @@
-###Junior Frontend-developer 
+## Junior Frontend-developer 
 **Skills:**
 • JavaScript
 • Basic skills in HTML and CSS
