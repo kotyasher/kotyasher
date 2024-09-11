@@ -7,7 +7,7 @@
 • Environment setup (Node.js, npm, Eslint, Makefile)
 
 **Contacts:**
- • Telegram: @nekozawrik, • Email: uamishieva@gmail.com
+ • Telegram: @godoflambs, • Email: uamishieva@gmail.com
 
 
 <!--
